@@ -1,8 +1,5 @@
 ##Hybrid Recipe Information Retrieval System
 
-System Walkthrough Video:
-https://youtu.be/nrHiofUeRhs
-
 The system uses a hybrid retrieval approach:
 BM25F (lexical search)
 Dense Retrieval (semantic search)
